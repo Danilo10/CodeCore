@@ -136,6 +136,14 @@ edad = añoactual - añoNacimiento
  Fin
  ------------------------------------------------------------------------------
 
+TREASURES.
+
+La respuesta correcta es Cofre A y Cofre C. 
+Se deduce ya que el mensaje del cofre A dice: El cofre del medio tiene un tesoro pero como desde el principio sabemos que los 3 mensajes son falsos
+tenemos la certeza de que en el cofre 2 NO hay tesoro. El mensaje del cofre de enmedio dice:Todos los cofres contienen tesoros, 
+pero como la premisa es falsa quiere decir que 1 o 2 cofres puedan tener tesoros. Y el mensaje del tercer cofre dice:
+solo uno de estos cofres tiene tesoro pero como la premisa es falsa quiere decir que por lógica son 2 cofres los que contienen el tesoro
+por lo tanto serian los cofres A y C.
 
 
 

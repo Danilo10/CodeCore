@@ -88,6 +88,54 @@ leer r
 volumen = (4/3) * 3.1416 * (r*r*r)
 Escribir «El volumen de la esfera es: «,volumen
 Fin
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+NUMBERS
+
+Inicio
+int num1;
+Ingrese un Número
+Leer num1
+Si num1 mod 2 es igual a 0
+Mostrar "El numer es par
+SiNo
+Mostrar "El número es impar"
+Fin
+---------------------------------------------
+DATE OF BIRTH
+
+Inicio
+
+int edad
+int diasActual
+int mesActual
+int añoActual
+int diaNacimineto
+int mesNacimineto
+int añoNacimineto
+
+"Ingrese la fecha actual en dia mes y año:"
+  Leer diasActual, mesActual,añoActual
+"Ingrese fecha de nacimiento en dia, mes y año:"
+  Leer diaNacimiento, mesNacimiento, añoNacimiento
+edad = añoactual - añoNacimiento
+ si mesNacimiento > mesActual Entonces:
+ edad = edad - 1
+ SiNo
+ si mesNacimiento == mesActual Entonces
+ si diaNacimineto > diasActual Entonces
+ edad = edad -1
+ Fin ciclo si
+ Sí dianacimineto == diasActual Entonces
+ Mostrar en pantalla "Feliz cumpleaños"
+ FinSi
+ FinSi
+ FinSi
+ Mostrar en pantalla "Tu edad es:" edad, "años"
+ Fin
+ ------------------------------------------------------------------------------
+
 
 
 

@@ -1,5 +1,8 @@
 # Challenges Week1 
 
+1. Semana 1
+2. Semana 2
+
 Hacer una Pizza
 Inicio
 Tomar la masa

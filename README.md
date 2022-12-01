@@ -1,7 +1,7 @@
-# Challenges Week1 
-
 1. Semana 1
 2. Semana 2
+
+# Challenges Week1 
 
 Hacer una Pizza
 Inicio

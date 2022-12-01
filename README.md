@@ -1,4 +1,8 @@
-1. Semana 1
+Repositorio Oscar Danilo Pérez
+
+## Semanas
+
+1. [Semana 1] (./weeks/challenguesW01)
 2. Semana 2
 
 # Challenges Week1 

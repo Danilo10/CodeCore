@@ -58,7 +58,7 @@ FinAlgoritmo
 --------------------------------------------------------------------------------------
 JUEVES 01/12/2022
 
-CHALLENGUE #1
+TRUTH TABLES
 T &T = T	✅
 V &F = F	✅
 F &T = T	❌
@@ -74,8 +74,7 @@ F |F = F	✅
 ~((V |F ) &(F |F)) &F = T	❌
 ~((V |F ) &(F |F)) &T = F	✅
 
-CHALENGUE #2
-
+BOOLEAN RESULTS
 Algoritmo boolean
 	a <- 5 == 3
 	// EL RESULTADO ES FALSO YA QUE 5 NO ES IGUAL A 3.
@@ -91,7 +90,7 @@ Algoritmo boolean
 	// F ES VERDADERO YA QUE YA QUE 40 SI ES MAYOR O IGUAL A 40.
 FinAlgoritmo	
 
-CHALLENGUE #3
+IDENTIFY ODD AND EVEN NUMBERS
 
 Algoritmo PARIMPAR
 	Mostrar 'Ingrese un número'

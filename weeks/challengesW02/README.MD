@@ -56,4 +56,51 @@ Algoritmo FormularioDeRegistro
 	Leer Dirección
 FinAlgoritmo
 --------------------------------------------------------------------------------------
+JUEVES 01/12/2022
+
+CHALLENGUE #1
+T &T = T	✅
+V &F = F	✅
+F &T = T	❌
+F &F = F	✅
+T |T = T	✅
+V |F = F	❌
+F |T = T	✅
+F |F = F	✅
+~T = T		❌
+~F = T		✅
+(V &F) |( ~F) = V	✅
+(V |F ) &(F |F) = T	❌
+~((V |F ) &(F |F)) &F = T	❌
+~((V |F ) &(F |F)) &T = F	✅
+
+CHALENGUE #2
+
+Algoritmo boolean
+	a <- 5 == 3
+	// EL RESULTADO ES FALSO YA QUE 5 NO ES IGUAL A 3.
+	b <- 4 <> 3
+	// B ES VERDADERO YA QUE 4 ES DIFERENTE DE 3.	
+	c <- 7 > 7
+	// C ES FALSO YA QUE 7 NO ES MAYOR QUE 7.
+	d <- 4 < 4
+	// D ES FALSO YA QUE 4 NO ES MENOR QUE 4.
+	e <- 100 <= 90
+	// E ES FALSO YA QUE 100 NO ES MENOR O IGUAL A 90.
+	f <- 40 >= 40
+	// F ES VERDADERO YA QUE YA QUE 40 SI ES MAYOR O IGUAL A 40.
+FinAlgoritmo	
+
+CHALLENGUE #3
+
+Algoritmo PARIMPAR
+	Mostrar 'Ingrese un número'
+	Leer numero
+	si numero % 2 = 0
+		Mostrar 'El numero es Par'
+	FinSi
+		si numero % 2 = 1
+		Mostrar 'El número es impar'
+	FinSi	
+FinAlgoritmo
 

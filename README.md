@@ -2,7 +2,7 @@ Repositorio Oscar Danilo Pérez
 
 ## Semanas
 
-- Week 1 : [Algorithms](weeks/challengeW01)
+- Week 1 : [Algorithms](weeks/challenge)
 - Week 2 : [Pseudocode](./weeks/challengeW02)
 
 # Challenges Week1 

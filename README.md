@@ -4,7 +4,8 @@ Repositorio Oscar Danilo Pérez
 
 - Week 1 : [Algorithms](weeks/challengesw01)
 - Week 2 : [Pseudocode](weeks/challengesW02)
-- Week 3 : [Coniditionals and control structure](weeks/challengesW03)
+- Week 3 : [Pseudocode](weeks/challengesW03)
+- Week 4 : [Pseudocode](weeks/challengesW04)
 
 
 
